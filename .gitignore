@@ -1,0 +1,5 @@
+investigation.txt
+investigation_report.txt
+investigation-report.txt
+*.log
+.env
