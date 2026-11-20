@@ -34,3 +34,4 @@ Tested using authentication failures generated in a controlled Ubuntu virtual ma
 - Alert thresholds are based on the number of matching records in the selected time window.
 - Historical lab timestamps were affected by an unsynchronized virtual machine clock.
 - Authentication failures alone do not prove malicious activity.
+# Linux-security-log-analyzer
